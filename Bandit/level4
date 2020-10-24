@@ -1,0 +1,8 @@
+cd /inhere
+# Use the file command to search all files with "-file-0" at the beginning.
+file ./-file-0*
+# Get the output of the only readable file
+cat ./-file-07
+
+PW:
+koReBOKuIDDepwhWk7jZC0RTdopnAYKh
