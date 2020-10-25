@@ -1,0 +1,13 @@
+# Search in files in /root for the bandit7 user, group as bandit6, and 33 bytes
+find / -user bandit7 -group bandit6 -size 33c
+
+# Optional
+# 2>&1 sends error messages to the screen
+# grep -F matches on fixed strings and -v is the inverse for matching.
+find / -user bandit7 -group bandit6 -size 33c 2>&1 | grep -F -v Permission
+
+# Read the contents of the password
+cat /var/lib/dpkg/info/bandit7.password
+
+# PW
+HKBPTKQnIay4Fw76bEy8PVxKEDQRKTzs
