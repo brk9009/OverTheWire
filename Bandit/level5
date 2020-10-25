@@ -1,0 +1,7 @@
+# The find command searches for files that are readable, over 1033 bytes, and not executable.
+find -readable -size 1033c ! -executable
+# Read the contents
+cat ./inhere/maybehere07/.file2
+
+PW:
+DXjZPULLxYr17uwoI01bNLQbtFemEgo7
