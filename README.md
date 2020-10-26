@@ -17,7 +17,7 @@ du: estimate file space usage.
 file: determine the file type.  
 find: search for files in directory.   
 grep: search for a string of characters in a file.  
-gzip: reduce the size of a file, usually text files.
+gzip: reduce the size of a file, usually text files.   
 sort: sorts the contents of a text file line by line.   
 strings: returns each string of printable characters in files.   
 tar: create compressed archive files that can be moved from one disk to another.   
