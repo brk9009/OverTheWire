@@ -12,7 +12,7 @@ lvl 1 boJ9jbbUNNfktd78OOpsqOltutMc3MY1
 
 Commands:
 base64: base64 encode/decode data and print to standard output.   
-bzip2: compress and decompress files
+bzip2: compress and decompress files.  
 du: estimate file space usage.  
 file: determine the file type.  
 find: search for files in directory.   
