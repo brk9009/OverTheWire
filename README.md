@@ -24,3 +24,11 @@ tar: create compressed archive files that can be moved from one disk to another.
 tr: translate or delete characters.   
 uniq: reports or filters out lines out repeated lines in a file.   
 xxd: create a hex dump of a given file or standard input.   
+
+Commands from The Linux Command Line Book
+cal: displays a calendar of the current month.
+date: displays the current time and date.  
+df: see the current amount of space on our disk drives.
+exit: exit the terminal.
+free: display the amount of free memory.
+pwd: print the name of the current work directory.
